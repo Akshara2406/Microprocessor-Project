@@ -1,2 +1,2 @@
-# Micrprocessor-Project
+# Microprocessor-Project
 Automatic water level controller
